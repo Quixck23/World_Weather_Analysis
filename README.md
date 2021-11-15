@@ -6,7 +6,7 @@
 * Google APIs
 * %matplotlib
 
-## Purpose##
+## Purpose ##
 The intention of this analysis is to develop a vacation map that let users plan their vacation and make and informed decision wether the  weather condition is optimal to fit their ideal vacation. We use Google APIs to recommend the best hotels within a certain area of the desire destination incluiding currennt weather.
 
 ## Google Map API ##
